@@ -1,0 +1,23 @@
+-ALGORITHM:- Buying groceries in supermarket.
+
+-INPUT:- Items you need to purchase, Money you have.
+
+-OUTPUT:- Items
+
+-STEPS:-
+
+Enter supermarket and pick up shoping basket
+Find and pick each item from groceries list
+If item is unavailable, move to next item from the list.
+If none of the items are available, leave supermarket and go home wait 3 hours, then go to step 1
+go to cashier with all your items and pay for them
+If you have insufficient ammount of money, leave items, go home to take money, then go to step 2
+pay for items
+if you gave more money than needed, wait for cashier to give your change back.
+Leave supermarket and go home with your items
+
+-ASSUMPTIONS:-
+
+Step 1 assumes that the city you live in has at least a single supermarket
+The algorithm assumes that you have legs and are able to walk
+The algorithm assumes that you are not handless or homeless
